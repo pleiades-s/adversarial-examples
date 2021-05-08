@@ -28,7 +28,11 @@ This repository is purposed to study couples of adversarial attacks and defenses
 - [ ] Shadow Attack
 - [ ] BPDA
 - [ ] Constructing Unrestricted Adversarial Examples with Generative Models
+- [ ] Advesarial Reprogramming of Neural Networks
 
 **Defence**
 - [ ] PGD Adversarial Training
 - [ ] Pixel Differential Privacy
+
+**MORE**
+- [ ] Playing with [cleverhans](https://github.com/cleverhans-lab/cleverhans)
