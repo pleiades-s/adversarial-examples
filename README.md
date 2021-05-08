@@ -39,5 +39,5 @@ This repository is purposed to study couples of adversarial attack and defense m
 - [ ] Pixel Differential Privacy
 
 **MORE**
-- [ ] [cleverhans](https://github.com/cleverhans-lab/cleverhans)
-- [ ] [advertorch](https://github.com/BorealisAI/advertorch)
+* [cleverhans](https://github.com/cleverhans-lab/cleverhans)
+* [advertorch](https://github.com/BorealisAI/advertorch)
