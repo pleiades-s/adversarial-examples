@@ -1,5 +1,5 @@
 # Adversarial Attack and Defense Techniques
-This repository is purposed to study couples of adversarial attacks and defenses not only by reading papers but by exploring their actual code implementations.
+This repository is purposed to study couples of adversarial attack and defense methods not only by reading the papers but by exploring their actual code implementations.
 
 # Papers
 
@@ -14,6 +14,8 @@ This repository is purposed to study couples of adversarial attacks and defenses
 - [ ] Certified Robustness to Adversarial Examples with Differential Privacy (S&P 2019)
 - [ ] Obfuscated Gradients Give a False Sense of Security (ICML 2018)
 - [ ] Constructing Unrestricted Adversarial Examples with Generative Models (NIPS 2018)
+- [ ] Deep Leackage from Gradients
+- [ ] Adversarial Attacks: Attacks and Defenses for Deep Learning
 
 
 # Codes
