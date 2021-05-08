@@ -16,6 +16,8 @@ This repository is purposed to study couples of adversarial attack and defense m
 - [ ] Constructing Unrestricted Adversarial Examples with Generative Models (NIPS 2018)
 - [ ] Deep Leackage from Gradients
 - [ ] Adversarial Attacks: Attacks and Defenses for Deep Learning
+- [ ] Adversarial Attacks and Defences Competition
+- [ ] Audio Adversarial Examples: Targeted Attacks on Speech-to-Text
 
 
 # Codes
