@@ -26,7 +26,7 @@ This repository is purposed to study couples of adversarial attack and defense m
 - [x] Fast Gradient Sign Method
 - [ ] One-step Target Class Method
 - [ ] Basic Iterative Method
-- [ ] Iterative Target Class Method
+- [ ] Iterative Target Class Method (Iterative Least-Likely Class Method)
 - [ ] Projected Gradient Descent
 - [ ] CW Attack
 - [ ] Shadow Attack
